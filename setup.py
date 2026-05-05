@@ -8,7 +8,7 @@ setup(
     version="1.2.0",
     packages=find_packages(),
     description="",
-    long_description=open("README.md").read(),
+    long_description="GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization",
     long_description_content_type="text/markdown",
     url="https://github.com/VicenteVivan/geo-clip",
     author="Vicente Vivanco",
